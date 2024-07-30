@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d653fc2.css",
+    "main.js": "/static/js/main.ddfc9178.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/your_bot.png": "/static/media/your_bot.c6ec19f7db459cb9fb48.png",
+    "static/media/demo.mp4": "/static/media/demo.f4e6f24137dbb791ada3.mp4",
+    "static/media/level3.png": "/static/media/level3.8acefd2982c0b676d7f5.png",
+    "static/media/Master.png": "/static/media/Master.4614c05ed6814f539a98.png",
+    "static/media/level1.png": "/static/media/level1.1df8d75e543f3280cdb4.png",
+    "static/media/level2.png": "/static/media/level2.5689e3a655f84a0dae86.png",
+    "static/media/level4.png": "/static/media/level4.26a52a7778888c55f71f.png",
+    "static/media/bot_bot.png": "/static/media/bot_bot.b11ea79e0658ad0efd1f.png",
+    "static/media/post_page.png": "/static/media/post_page.8b82e3bd4b39d6158825.png",
+    "static/media/visualize.png": "/static/media/visualize.e7d4cc6118dcfef9aaa3.png",
+    "static/media/vay_visualize.png": "/static/media/vay_visualize.1ce8fcd2d2e8f17e8d91.png",
+    "static/media/fireSound.mp3": "/static/media/fireSound.c804a7aa1f2a2cf23a99.mp3",
+    "static/media/bad_icon.png": "/static/media/bad_icon.01fa46ac8b22478c9ef1.png",
+    "static/media/valid_move_visualize.png": "/static/media/valid_move_visualize.a48b43decc19974d8a04.png",
+    "static/media/good_icon.png": "/static/media/good_icon.93365ed4beb9e35063ad.png",
+    "static/media/ganh_chet_visualize.png": "/static/media/ganh_chet_visualize.ff68fe6b7a73b9f30c79.png",
+    "static/media/chessboard_simulation.png": "/static/media/chessboard_simulation.0a362082e24c7e28d0ae.png",
+    "static/media/fire.webp": "/static/media/fire.1c390cf9e48b715f4179.webp",
+    "static/media/due_sword.png": "/static/media/due_sword.789d5674f69f0ba6f106.png",
+    "static/media/sword.png": "/static/media/sword.9312fe19f542ae2c00d0.png",
+    "static/media/roll.png": "/static/media/roll.c8a1546547972a240974.png",
+    "static/media/capture.mp3": "/static/media/capture.79c343c9a73327f96d37.mp3",
+    "static/media/move-self.mp3": "/static/media/move-self.f4280e96965e14433c3b.mp3",
+    "index.html": "/index.html",
+    "main.5d653fc2.css.map": "/static/css/main.5d653fc2.css.map",
+    "main.ddfc9178.js.map": "/static/js/main.ddfc9178.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d653fc2.css",
+    "static/js/main.ddfc9178.js"
+  ]
+}
